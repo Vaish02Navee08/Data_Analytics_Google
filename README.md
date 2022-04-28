@@ -1,2 +1,1 @@
-# Data_Analytics_Google
-Google's Data Analytics Professional Certification From Coursera
+Learning JavaScript by directly coding
